@@ -1,0 +1,13 @@
+{
+  "name": "mrk-x",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.0",
+    "shoukaku": "^4.1.1"
+  }
+}
